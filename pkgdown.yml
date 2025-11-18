@@ -1,11 +1,10 @@
-pandoc: 2.7.3
-pkgdown: 1.6.1
+pandoc: 3.8.2.1
+pkgdown: 2.2.0
 pkgdown_sha: ~
 articles:
   HOWTO_BUILD_WORKSHOP: HOWTO_BUILD_WORKSHOP.html
   workshop_example: workshop_example.html
-last_built: 2020-12-13T15:47Z
+last_built: 2025-11-18T10:29Z
 urls:
-  reference: https://seandavi.github.io/sars2pack/reference
-  article: https://seandavi.github.io/sars2pack/articles
-
+  reference: https://seandavi.github.io/BuildABiocWorkshop/reference
+  article: https://seandavi.github.io/BuildABiocWorkshop/articles
